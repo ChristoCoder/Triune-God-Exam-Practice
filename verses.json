@@ -16,7 +16,7 @@
         "word": "in"
     },
     {
-        "verse": "John 3:6 That which is born of the flesh is flesh, and that which is born of the Spirit is spirit.",
+        "verse": "John 3:6b That which is born of the flesh is flesh, and that which is born of the Spirit is spirit.",
         "word": "in"
     },
     {
@@ -24,12 +24,8 @@
         "word": "in"
     },
     {
-        "verse": "Eph. 1:13 In whom you also, having heard the word of the truth, the gospel of your salvation, in Him also believing, you were sealed with the Holy Spirit of the promise,",
-        "word": "in"
-    },
-    {
         "verse": "John 15:5 I am the vine; you are the branches. He who abides in Me and I in him, he bears much fruit; for apart from Me you can do nothing.",
-        "word": "in"
+        "word": "in&with"
     },
     {
         "verse": "1 John 2:6 He who says he abides in Him ought himself also to walk even as He walked.",
@@ -40,23 +36,15 @@
         "word": "in"
     },
     {
-        "verse": "1 John 3:24 And he who keeps His commandments abides in Him, and He in him. And in this we know that He abides in us, by the Spirit whom He gave to us.",
-        "word": "in"
-    },
-    {
         "verse": "1 John 2:27 And as for you, the anointing which you have received from Him abides in you, and you have no need that anyone teach you; but as His anointing teaches you concerning all things and is true and is not a lie, and even as it has taught you, abide in Him.",
         "word": "in"
     },
     {
-        "verse": "John 14:19 Yet a little while and the world beholds Me no longer, but you behold Me; because I live, you also shall live.",
+        "verse": "John 14:19-20 Yet a little while and the world beholds Me no longer, but you behold Me; because I live, you also shall live. In that day you will know that I am in My Father, and you in Me, and I in you.",
         "word": "in"
     },
     {
-        "verse": "John 14:20 In that day you will know that I am in My Father, and you in Me, and I in you.",
-        "word": "in"
-    },
-    {
-        "verse": "John 6:57 As the living Father has sent Me and I live because of the Father, so he who eats Me, he also shall live because of Me.",
+        "verse": "John 6:57b-58 As the living Father has sent Me and I live because of the Father, so he who eats Me, he also shall live because of Me.",
         "word": "in"
     },
     {
@@ -64,31 +52,23 @@
         "word": "in"
     },
     {
-        "verse": "Phil. 1:20-21 According to my earnest expectation and hope that in nothing I will be put to shame, but with all boldness, as always, even now Christ will be magnified in my body, whether through life or through death. For to me, to live is Christ and to die is gain.",
-        "word": "in"
+        "verse": "Phil. 1:20-21a According to my earnest expectation and hope that in nothing I will be put to shame, but with all boldness, as always, even now Christ will be magnified in my body, whether through life or through death. For to me, to live is Christ and to die is gain.",
+        "word": "in&with"
     },
     {
         "verse": "Gal. 2:20 I am crucified with Christ; and [it is] no longer I [who] live, but [it is] Christ [who] lives in me; and the [life] which I now live in the flesh I live in faith, the [faith] of the Son of God, who loved me and gave Himself up for me.",
-        "word": "in"
+        "word": "in&with"
     },
     {
         "verse": "Phil. 1:19 For I know that for me this will turn out to salvation through your petition and [the] bountiful supply of the Spirit of Jesus Christ,",
-        "word": "in"
+        "word": "in&with"
     },
     {
         "verse": "Gal. 6:18 The grace of our Lord Jesus Christ be with your spirit, brothers. Amen.",
         "word": "in"
     },
     {
-        "verse": "John 15:5 I am the vine; you are the branches. He who abides in Me and I in him, he bears much fruit; for apart from Me you can do nothing.",
-        "word": "with", "word":"in"
-    },
-    {
-        "verse": "John 15:7 If you abide in Me and My words abide in you, ask whatever you will, and it shall be done for you.",
-        "word": "with"
-    },
-    {
-        "verse": "John 15:8 In this is My Father glorified, that you bear much fruit and [so] you will become My disciples.",
+        "verse": "John 15:7-8 If you abide in Me and My words abide in you, ask whatever you will, and it shall be done for you. In this is My Father glorified, that you bear much fruit and [so] you will become My disciples.",
         "word": "with"
     },
     {
@@ -101,7 +81,7 @@
     },
     {
         "verse": "1 John 3:24 And he who keeps His commandments abides in Him, and He in him. And in this we know that He abides in us, by the Spirit whom He gave to us.",
-        "word": "with"
+        "word": "in&with"
     },
     {
         "verse": "John 14:23 Jesus answered and said to him, If anyone loves Me, he will keep My word, and My Father will love him, and We will come to him and make an abode with him.",
@@ -112,7 +92,7 @@
         "word": "with"
     },
     {
-        "verse": "Gal. 2:20 I am crucified with Christ; and [it is] no longer I [who] live, but [it is] Christ [who] lives in me; and the [life] which I now live in the flesh I live in faith, the [faith] of the Son of God, who loved me and gave Himself up for me.",
+        "verse": "Gal. 2:20b I am crucified with Christ; and [it is] no longer I [who] live, but [it is] Christ [who] lives in me; and the [life] which I now live in the flesh I live in faith, the [faith] of the Son of God, who loved me and gave Himself up for me.",
         "word": "with"
     },
     {
@@ -176,15 +156,11 @@
         "word": "with"
     },
     {
-        "verse": "Gal. 1:15-16 But when it pleased God, who set me apart from my mother's womb and called me through His grace, To reveal His Son in me that I might announce Him as the gospel among the Gentiles, immediately I did not confer with flesh and blood,",
+        "verse": "Gal. 1:15-16a But when it pleased God, who set me apart from my mother's womb and called me through His grace, To reveal His Son in me that I might announce Him as the gospel among the Gentiles, immediately I did not confer with flesh and blood,",
         "word": "with"
     },
     {
         "verse": "Gal. 3:27 For as many of you as were baptized into Christ have put on Christ.",
-        "word": "with"
-    },
-    {
-        "verse": "Gal. 2:20 I am crucified with Christ; and [it is] no longer I [who] live, but [it is] Christ [who] lives in me; and the [life] which I now live in the flesh I live in faith, the [faith] of the Son of God, who loved me and gave Himself up for me.",
         "word": "with"
     },
     {
@@ -193,7 +169,7 @@
     },
     {
         "verse": "Eph. 1:13 In whom you also, having heard the word of the truth, the gospel of your salvation, in Him also believing, you were sealed with the Holy Spirit of the promise,",
-        "word": "with"
+        "word": "in&with"
     },
     {
         "verse": "1 Pet. 1:4 Unto an inheritance, incorruptible and undefiled and unfading, kept in the heavens for you,",
@@ -204,23 +180,11 @@
         "word": "with"
     },
     {
-        "verse": "Phil. 1:19-21 For I know that for me this will turn out to salvation through your petition and [the] bountiful supply of the Spirit of Jesus Christ, According to my earnest expectation and hope that in nothing I will be put to shame, but with all boldness, as always, even now Christ will be magnified in my body, whether through life or through death. For to me, to live is Christ and to die is gain.",
+        "verse": "Phil. 2:15-16a That you may be blameless and guileless, children of God without blemish in the midst of a crooked and perverted generation, among whom you shine as luminaries in the world, Holding forth the word of life, so that I may have a boast in the day of Christ that I did not run in vain nor labor in vain.",
         "word": "with"
     },
     {
-        "verse": "Phil. 2:15-16 That you may be blameless and guileless, children of God without blemish in the midst of a crooked and perverted generation, among whom you shine as luminaries in the world, Holding forth the word of life, so that I may have a boast in the day of Christ that I did not run in vain nor labor in vain.",
-        "word": "with"
-    },
-    {
-        "verse": "Phil. 3:10-12 To know Him and the power of His resurrection and the fellowship of His sufferings, being conformed to His death, If perhaps I may attain to the out-resurrection from the dead. Not that I have already obtained or am already perfected, but I pursue, if even I may lay hold of that for which I also have been laid hold of by Christ Jesus.",
-        "word": "with"
-    },
-    {
-        "verse": "Phil. 3:13 Brothers, I do not account of myself to have laid hold; but one thing [I do:] Forgetting the things which are behind and stretching forward to the things which are before,",
-        "word": "with"
-    },
-    {
-        "verse": "Phil. 3:14 I pursue toward the goal for the prize to which God in Christ Jesus has called [me] upward.",
+        "verse": "Phil. 3:10-14 To know Him and the power of His resurrection and the fellowship of His sufferings, being conformed to His death, If perhaps I may attain to the out-resurrection from the dead. Not that I have already obtained or am already perfected, but I pursue, if even I may lay hold of that for which I also have been laid hold of by Christ Jesus. Brothers, I do not account of myself to have laid hold; but one thing [I do:] Forgetting the things which are behind and stretching forward to the things which are before, I pursue toward the goal for the prize to which God in Christ Jesus has called [me] upward.",
         "word": "with"
     },
     {
@@ -228,7 +192,7 @@
         "word": "with"
     },
     {
-        "verse": "Phil. 4:12 I know also how to be abased, and I know how to abound; in everything and in all things I have learned the secret both to be filled and to hunger, both to abound and to lack. I am able to do all things in Him who empowers me",
+        "verse": "Phil. 4:12-13 I know also how to be abased, and I know how to abound; in everything and in all things I have learned the secret both to be filled and to hunger, both to abound and to lack. I am able to do all things in Him who empowers me",
         "word": "with"
     },
     {

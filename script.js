@@ -18,6 +18,7 @@ document.addEventListener('DOMContentLoaded', function () {
     // Event listeners for buttons
     document.getElementById('with-button').addEventListener('click', () => checkAnswer('with'));
     document.getElementById('in-button').addEventListener('click', () => checkAnswer('in'));
+    document.getElementById('in&with-button').addEventListener('click', () => checkAnswer('in&with'));
     document.getElementById('next-button').addEventListener('click', nextQuestion);
     document.getElementById('replay-button').addEventListener('click', replayGame);
 
